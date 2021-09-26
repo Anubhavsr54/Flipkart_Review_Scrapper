@@ -4,7 +4,7 @@ Review Scrapper(FlipKart)
 Using Flask(Framework)
 
 
-URL: [Review Scrapper](https://reviewscapper.herokuapp.com)
+URL: [Review Scrapper](https://rviewscrapper.herokuapp.com/)
 
 > Input Page
 
@@ -13,4 +13,4 @@ URL: [Review Scrapper](https://reviewscapper.herokuapp.com)
 
 > Output Page
 
-![Output Page](https://raw.githubusercontent.com/abhishek96negi/Review-Scrapper/main/Images/output.png)
+![Output Page](https://github.com/Anubhavsr54/Flipkart_Review_Scrapper/blob/main/output.png)
