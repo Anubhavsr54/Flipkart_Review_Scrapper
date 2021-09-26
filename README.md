@@ -8,7 +8,7 @@ URL: [Review Scrapper](https://reviewscapper.herokuapp.com)
 
 > Input Page
 
-![Input Page](https://raw.githubusercontent.com/abhishek96negi/Review-Scrapper/main/Images/input.png)
+![Input Page](https://github.com/Anubhavsr54/Flipkart_Review_Scrapper/blob/main/input.png)
 
 
 > Output Page
